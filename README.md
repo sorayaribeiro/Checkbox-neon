@@ -1,2 +1,3 @@
 # Checkbox-neon
- Checkbox com animação neon em css e html apenas.
+ Checkbox com animação colorida neon em css e html apenas.
+ https://sorayaribeiro.github.io/Checkbox-neon/
